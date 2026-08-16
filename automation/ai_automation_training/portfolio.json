@@ -20,8 +20,8 @@
         "status": "Curriculum Building",
         "summary": "Build a clear mental model of modern AI systems before working with tools.",
         "focus": ["AI Landscape", "Machine Learning", "Neural Networks", "LLMs", "Tokens", "Embeddings", "Transformers", "Model Capabilities"],
-        "folder": "education/ai_automation_training/01_ai_systems_primer",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/01_ai_systems_primer"
+        "folder": "automation/ai_automation_training/01_ai_systems_primer",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/01_ai_systems_primer"
       },
       {
         "order": 2,
@@ -30,8 +30,8 @@
         "status": "Curriculum Building",
         "summary": "Design instructions, context, outputs, and model interactions that are useful and testable.",
         "focus": ["Prompt Design", "Context Engineering", "Structured Outputs", "Model Selection", "Evaluation"],
-        "folder": "education/ai_automation_training/02_llm_interaction_design",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/02_llm_interaction_design"
+        "folder": "automation/ai_automation_training/02_llm_interaction_design",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/02_llm_interaction_design"
       },
       {
         "order": 3,
@@ -40,8 +40,8 @@
         "status": "Curriculum Building",
         "summary": "Connect AI systems to structured and unstructured knowledge using retrieval patterns.",
         "focus": ["APIs", "HTTP Requests", "JSON", "Embeddings in Practice", "RAG", "Knowledge Bases", "Metadata & Filtering"],
-        "folder": "education/ai_automation_training/03_knowledge_retrieval_systems",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/03_knowledge_retrieval_systems"
+        "folder": "automation/ai_automation_training/03_knowledge_retrieval_systems",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/03_knowledge_retrieval_systems"
       },
       {
         "order": 4,
@@ -50,8 +50,8 @@
         "status": "Curriculum Building",
         "summary": "Learn to design reliable automation workflows instead of memorizing isolated tool steps.",
         "focus": ["Workflow Design", "n8n", "Nodes", "Triggers", "Webhooks", "Routing", "Data Transformation", "Error Handling"],
-        "folder": "education/ai_automation_training/04_workflow_engineering",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/04_workflow_engineering"
+        "folder": "automation/ai_automation_training/04_workflow_engineering",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/04_workflow_engineering"
       },
       {
         "order": 5,
@@ -60,8 +60,8 @@
         "status": "Curriculum Building",
         "summary": "Combine LLM capabilities with deterministic automation to create practical AI-powered workflows.",
         "focus": ["AI-Powered Workflows", "Classification", "Extraction", "Summarization", "Human-in-the-Loop", "Business Process Automation"],
-        "folder": "education/ai_automation_training/05_intelligent_automation",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/05_intelligent_automation"
+        "folder": "automation/ai_automation_training/05_intelligent_automation",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/05_intelligent_automation"
       },
       {
         "order": 6,
@@ -70,8 +70,8 @@
         "status": "Curriculum Building",
         "summary": "Understand when to use agents, how they use tools and memory, and how agentic workflows differ from standard automation.",
         "focus": ["AI Agents", "Tools", "Memory", "Function Calling", "Agentic Workflows", "RAG Agents", "MCP", "CrewAI"],
-        "folder": "education/ai_automation_training/06_agentic_systems",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/06_agentic_systems"
+        "folder": "automation/ai_automation_training/06_agentic_systems",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/06_agentic_systems"
       },
       {
         "order": 7,
@@ -80,8 +80,8 @@
         "status": "Curriculum Building",
         "summary": "Move workflows from demos to maintainable systems through testing, debugging, hosting, and operational design.",
         "focus": ["Testing", "Debugging", "Fallbacks", "Observability", "Hosting", "Deployment", "Scaling", "Cost Control"],
-        "folder": "education/ai_automation_training/07_production_reliability",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/07_production_reliability"
+        "folder": "automation/ai_automation_training/07_production_reliability",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/07_production_reliability"
       },
       {
         "order": 8,
@@ -90,8 +90,8 @@
         "status": "Curriculum Building",
         "summary": "Build complete systems around real operational problems rather than isolated tutorials.",
         "focus": ["Customer Support", "Lead Qualification", "CRM & Sales Automation", "Knowledge Assistants", "Integrations", "Analytics"],
-        "folder": "education/ai_automation_training/08_applied_ai_solutions",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/08_applied_ai_solutions"
+        "folder": "automation/ai_automation_training/08_applied_ai_solutions",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/08_applied_ai_solutions"
       },
       {
         "order": 9,
@@ -100,8 +100,8 @@
         "status": "Curriculum Building",
         "summary": "Translate business problems into scoped AI and automation solutions with clear value, cost, and delivery boundaries.",
         "focus": ["Problem Discovery", "Process Mapping", "Scoping", "Solution Architecture", "Cost Estimation", "Pricing", "Client Delivery"],
-        "folder": "education/ai_automation_training/09_ai_solution_strategy",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/09_ai_solution_strategy"
+        "folder": "automation/ai_automation_training/09_ai_solution_strategy",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/09_ai_solution_strategy"
       },
       {
         "order": 10,
@@ -110,8 +110,8 @@
         "status": "Curriculum Building",
         "summary": "Design, build, test, evaluate, deploy, and present one complete AI automation system.",
         "focus": ["Discovery", "System Design", "Implementation", "Testing", "Evaluation", "Deployment", "Presentation"],
-        "folder": "education/ai_automation_training/10_capstone_build_to_deploy",
-        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/education/ai_automation_training/10_capstone_build_to_deploy"
+        "folder": "automation/ai_automation_training/10_capstone_build_to_deploy",
+        "github_url": "https://github.com/rewanebrahembadr-cmyk/rewanebrahembadr-cmyk/tree/main/automation/ai_automation_training/10_capstone_build_to_deploy"
       }
     ]
   }
