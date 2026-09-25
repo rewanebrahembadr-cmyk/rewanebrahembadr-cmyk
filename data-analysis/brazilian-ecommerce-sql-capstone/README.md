@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Analysis — SQL Capstone Project
+# Brazilian E-Commerce Analytics with SQL
 
 A team data-analysis capstone project focused on **e-commerce operations and customer experience** using the Brazilian Olist dataset.
 
@@ -53,7 +53,7 @@ Completed by a **4-member team** as a collaborative SQL capstone project.
 
 Open the full notebook here:
 
-[**Brazilian_Ecommerce_SQL_Capstone.ipynb**](./Brazilian_Ecommerce_SQL_Capstone.ipynb)
+[**Brazilian_Ecommerce_SQL_Analytics.ipynb**](./Brazilian_Ecommerce_SQL_Analytics.ipynb)
 
 ---
 
